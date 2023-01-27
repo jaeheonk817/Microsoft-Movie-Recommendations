@@ -11,6 +11,7 @@ As a data scientist, I have been tasked with providing recommendations for origi
 - The data was thoroughly cleaned and then combined to create a comprehensive dataset with a sufficient number of data points.
 ### Analysis
 - After conducting initial analysis using visualization tools provided by the pandas and seaborn libraries, I focused on the 'high budgeted movies' category as it was the only category with a significant return on investment. I then conducted further research specifically on that category.
-- 
+- I examined if increasing budget within the 'high budget' category resulted in better return on investment.
+- I investigated if certain genres have lower return on investment but still receive high ratings and popularity among viewers.
 
 ## Conclusion
