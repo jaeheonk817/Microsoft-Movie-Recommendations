@@ -6,5 +6,11 @@ As a data scientist, I have been tasked with providing recommendations for origi
 * The project will focus on creating original content for streaming platforms, as opposed to purchasing or renting existing content.
 * The objective of this project is to provide detailed guidance to Microsoft on what specific types of original contents to create that will enable them to establish a successful streaming platform.
 ## Data Understanding and Analysis
+### Data Understanding
+- The data used in this project is sourced from various websites, including IMDb Database, The Movie Database, Rotten Tomatoes, Box-Office-Bombs, and The Numbers for movie budget data.
+- The data was thoroughly cleaned and then combined to create a comprehensive dataset with a sufficient number of data points.
+### Analysis
+- After conducting initial analysis using visualization tools provided by the pandas and seaborn libraries, I focused on the 'high budgeted movies' category as it was the only category with a significant return on investment. I then conducted further research specifically on that category.
+- 
 
 ## Conclusion
