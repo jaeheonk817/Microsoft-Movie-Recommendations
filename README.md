@@ -15,3 +15,6 @@ As a data scientist, I have been tasked with providing recommendations for origi
 - I investigated if certain genres have lower return on investment but still receive high ratings and popularity among viewers.
 
 ## Conclusion
+- Focus only on making high-budget original contents. Magitude of success will be greater while risk of failure will be significantly lower
+- Within high-budget contents, increasing budget generally yields greater return ratio. When faced with a decision of making more investment for clear better content, go for it.
+- Success and failure of a movie in a streaming platform cannot be measured by its individual financial performance alone. Some high-quality contents make views return to the platform and spend more time. Documentary is an example of such category. See it as a form of investment despite poor ROI. 
